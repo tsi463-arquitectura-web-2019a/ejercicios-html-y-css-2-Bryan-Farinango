@@ -1,0 +1,32 @@
+.main{
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+.header{
+	background-color: #33BEBE;
+	color: #ffffff;
+	height: 80px;	
+}
+
+.header h1{
+	padding-top: 40px;
+	padding-left: 10px;
+
+
+}
+
+.image{
+	padding-top: 20px;
+	position: relative;
+}
+
+
+.content-wrapper{
+	display: flex;
+}
+
+.text {
+	margin-left: 20px;
+}
