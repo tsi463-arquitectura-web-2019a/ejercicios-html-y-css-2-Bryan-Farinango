@@ -1,0 +1,115 @@
+.main{
+	width: 100%;
+	background-color: #131A2D;
+	margin:0 auto;
+}
+
+.header{
+	width: 100%;
+	height: 120px;
+	padding: 0;
+	color: #131A2D;
+	display: flex;
+	flex-direction: row;
+	border-bottom-style: solid;
+	border-bottom-color: #D0C4AB;
+	background-color: #ffffff;
+}
+
+.titulo{
+	margin: 20px;
+	width: 100%;
+	text-align: right;
+}
+
+.titulo h1{
+	font-size: 50px;
+	margin-bottom: -20px;
+	margin-top: -5px;
+}
+
+.titulo h2 {
+	font-size: 19px;
+	font-weight: bold;
+}
+
+.line{
+	width: 100%;
+	margin: 0;
+	height: 20px;
+	background-color: #ffffff;
+} 
+
+.image {
+	margin: 15px;
+}
+
+.image-portada{
+	width: 100%;
+	height: 20%;
+	margin-top: 20px;
+}
+
+.content-wrapper{
+	margin-top: 25px;
+	width: 100%;
+}
+
+.content-wrapper h2{
+	color:#BCBBBB;
+	margin: 15px;
+	font-size: 50px;
+}
+
+.Images{
+	width: 100%;
+	display:flex;
+	flex-direction: row;
+	margin-left:5px;
+	margin-top: -15px;
+}
+
+.Images img{
+	margin:30px;
+	width: 50%;
+	height: 30%;
+	margin-bottom: -15px;
+	padding-right: 30px;
+}
+
+.Images2 img{
+	margin: 30px;
+	margin-top: 200px;
+	width: 46%;
+	height: 30%;
+	margin-bottom: -15px;
+
+}
+
+.subtext-images{
+	display:flex;
+	flex-direction: row;
+	margin-top: 15px;
+}
+
+.subtext-images h2{
+	color:#D0C4AB;
+	text-align: center;
+	width: 50%;
+	font-size: 100px;
+}
+
+.subtext-links{
+	display:flex;
+	flex-direction: row;
+	margin-top: 15px;
+}
+
+.subtext-links h5{
+	color:#D0C4AB;
+	text-align: center;
+	width: 50%;
+	margin-top: -30px;
+	font-size: 50px;
+	font-weight: bold;
+}
