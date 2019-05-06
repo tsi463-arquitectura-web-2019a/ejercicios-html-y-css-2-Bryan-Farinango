@@ -1,0 +1,95 @@
+.main{
+	width: 100%;
+	background-color: #ffffff;
+	margin:0 auto;
+}
+
+.header{
+	width: 100%;
+	height: 100px;
+	padding: 0;
+	color: #BCBBBB;
+	display: flex;
+	flex-direction: row;
+	border-bottom-style: solid;
+	border-bottom-color: #BCBBBB;
+}
+
+.titulo{
+	margin: 20px;
+	width: 100%;
+	text-align: right;
+}
+
+.titulo h1{
+	font-size: 50px;
+	margin-bottom: -20px;
+	margin-top: -5px;
+}
+
+.titulo h2 {
+	font-size: 19px;
+	font-weight: bold;
+}
+
+.image {
+	margin: 15px;
+}
+
+.image-portada{
+	width: 100%;
+	height: 20%;
+	margin: 5px;
+}
+
+.content-wrapper{
+	margin-top: 25px;
+	width: 100%;
+}
+
+.content-wrapper h2{
+	color:#BCBBBB;
+	margin: 15px;
+	font-size: 30px;
+}
+
+
+.Images{
+	width: 100%;
+	display:flex;
+	flex-direction: row;
+	margin-left:5px;
+	margin-top: -15px;
+}
+
+.Images img{
+	margin:22px;
+	width: 33%;
+	height: 50%;
+	margin-bottom: -15px;
+}
+
+.subtext-images{
+	display:flex;
+	flex-direction: row;
+	margin-top: 15px;
+}
+
+.subtext-images h2{
+	color:#747704;
+	text-align: center;
+	width: 33%;
+}
+
+.subtext-links{
+	display:flex;
+	flex-direction: row;
+	margin-top: 15px;
+}
+
+.subtext-links h5{
+	color:#BCBBBB;
+	text-align: center;
+	width: 33%;
+	margin-top: -30px;
+}
